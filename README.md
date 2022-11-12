@@ -13,7 +13,7 @@
 
 <a href="https://instagram.com/98__dj">
     <img 
-        src="http://img.shields.io/badge/-Instagram-#3f729b?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
@@ -26,6 +26,6 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...#3f729b
 -->
 
